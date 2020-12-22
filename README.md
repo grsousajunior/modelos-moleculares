@@ -7,7 +7,7 @@ Exceto quando indicado em contrário, todos as estruturas foram construídas usa
 
 ## Alcanos
 
-- [Metano](alcanos/metano.sdf?raw=true)
+- <a href="/alcanos/metano.sdf" download type="chemical/x-mdl-sdfile">Metano</a>
 - [Etano (alternado)](alcanos/etano-alternado.sdf)
 - [Etano (eclipsado)](alcanos/etano-etano-eclipsado.sdf)
 - [Propano (alternado)](alcanos/propano-alternado.sdf)
