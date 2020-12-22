@@ -7,44 +7,44 @@ Exceto quando indicado em contrário, todos as estruturas foram construídas usa
 
 ## Alcanos
 
-- <a href="/alcanos/metano.sdf" download type="chemical/x-mdl-sdfile">Metano</a>
-- [Etano (alternado)](alcanos/etano-alternado.sdf)
-- [Etano (eclipsado)](alcanos/etano-etano-eclipsado.sdf)
-- [Propano (alternado)](alcanos/propano-alternado.sdf)
-- [Propano (eclipsado)](propano-eclipsado.sdf)
-- [Propano, 2-metil- (isopropano)](alcanos/propano_2-metil.sdf)
-- [Propano, 2,2-dimetil- (neobutano)](alcanos/propano_2_2-dimetil.sdf)
-- [Butano (antiperiplanar)](alcanos/butano-antiperiplanar.sdf)
-- [Butano (anticlinal)](alcanos/butano-anticlinal.sdf)
-- [Butano (gauche)](alcanos/butano-gauche.sdf)
-- [Butano (sinperiplanar)](alcanos/butano-sinperiplanar.sdf)
-- [Butano, 2-metil-](alcanos/butano_2-metil.sdf)
-- [Butano, 2,2-dimetil-](alcanos/butano_2_2_dimetil.sdf)
-- [Butano, 2,3-dimetil-](alcanos/butano_2_3-dimetil.sdf)
-- [Butano, 2,2,3-trimetil-](alcanos/butano_2_2_3-trimetil.sdf)
-- [Pentano (anti-anti)](alcanos/pentano-anti-anti.sdf)
-- [Pentano (gauche-anti)](alcanos/pentano-gauche-anti.sdf)
-- [Pentano (gauche-gauche, sin)](alcanos/pentano-gauche-gauche-sin.sdf)  
-- [Pentano (gauche-gauche, anti)](alcanos/pentano-gauche-gauche-anti.sdf)
-- [Hexano](alcanos/hexano.sdf)
-- [Hexano, 2-metil-](alcanos/hexano_2-metil.sdf)
-- [Hexano, (3*R*)-3-metil-](alcanos/hexano_3R-3-metil.sdf)
-- [Hexano, (3*S*)-3-metil-](alcanos/hexano_3S-3-metil.sdf)
-- [Heptano](alcanos/heptano.sdf)
-- [Octano](alcanos/octano.sdf)
-- [Nonano](alcanos/nonano.sdf)
-- [Decano](alcanos/decano.sdf)
-- [Undecano](alcanos/undecano.sdf)
-- [Dodecano](alcanos/dodecano.sdf)
-- [Tetradecano](alcanos/tetradecano.sdf)
-- [Hexadecano](alcanos/hexadecano.sdf)
-- [Octadecano](alcanos/octadecano.sdf)
-- [Eicosano](alcanos/eicosano.sdf)
-- [Docosano](alcanos/docosano.sdf)
-- [Tetracosano](alcanos/tetracosano.sdf)
-- [Hexacosano](alcanos/hexacosano.sdf)
-- [Octacosano](alcanos/octacosano.sdf)
-- [Triacontano](alcanos/triacontano.sdf)
-- [Tetracontano](alcanos/tetracontano.sdf)
-- [Pentacontano](alcanos/pentacontano.sdf)
-- [Hectano](alcanos/hectano.sdf)
+- <a href="/alcanos/metano.sdf" download="metano.sdf" type="chemical/x-mdl-sdfile">Metano</a>
+- <a href="/alcanos/etano-alternado.sdf" download="etano-alternado.sdf" type="chemical/x-mdl-sdfile">Etano (alternado)</a>
+- <a href="/alcanos/etano-eclipsado.sdf" download="etano-eclipsado.sdf" type="chemical/x-mdl-sdfile">Etano (eclipsado)</a>
+- <a href="/alcanos/propano-alternado.sdf" download="propano-alternado.sdf" type="chemical/x-mdl-sdfile">Propano (alternado)</a>
+- <a href="/alcanos/propano-eclipsado.sdf" download="" type="chemical/x-mdl-sdfile">Propano (eclipsado)</a>
+- <a href="/alcanos/propano_2-metil.sdf" download="propano_2-metil.sdf" type="chemical/x-mdl-sdfile">Propano, 2-metil- (isopropano)</a>
+- <a href="/alcanos/propano_2_2-dimetil.sdf" download="propano_2_2-dimetil.sdf" type="chemical/x-mdl-sdfile">Propano, 2,2-dimetil- (neobutano)</a>
+- <a href="/alcanos/butano-antiperiplanar.sdf" download="butano-antiperiplanar.sdf" type="chemical/x-mdl-sdfile">Butano (antiperiplanar)</a>
+- <a href="/alcanos/butano-anticlinal.sdf" download="butano-anticlinal.sdf" type="chemical/x-mdl-sdfile">Butano (anticlinal)</a>
+- <a href="/alcanos/butano-gauche.sdf" download="butano-gauche.sdf" type="chemical/x-mdl-sdfile">Butano (gauche)</a>
+- <a href="/alcanos/butano-sinperiplanar.sdf" download="butano-sinperiplanar.sdf" type="chemical/x-mdl-sdfile">Butano (sinperiplanar)</a>
+- <a href="/alcanos/butano_2-metil.sdf" download="butano_2-metil.sdf" type="chemical/x-mdl-sdfile">Butano, 2-metil-</a>
+- <a href="/alcanos/butano_2_2_dimetil.sdf" download="butano_2_2_dimetil.sdf" type="chemical/x-mdl-sdfile">Butano, 2,2-dimetil-</a>
+- <a href="/alcanos/butano_2_3-dimetil.sdf" download="butano_2_3-dimetil.sdf" type="chemical/x-mdl-sdfile">Butano, 2,3-dimetil-</a>
+- <a href="/alcanos/butano_2_2_3-trimetil.sdf" download="butano_2_2_3-trimetil.sdf" type="chemical/x-mdl-sdfile">Butano, 2,2,3-trimetil-</a>
+- <a href="/alcanos/pentano-anti-anti.sdf" download="pentano-anti-anti.sdf" type="chemical/x-mdl-sdfile">Pentano (anti-anti)</a>
+- <a href="/alcanos/pentano-gauche-anti.sdf" download="pentano-gauche-anti.sdf" type="chemical/x-mdl-sdfile">Pentano (gauche-anti)</a>
+- <a href="/alcanos/pentano-gauche-gauche-sin.sdf" download="pentano-gauche-gauche-sin.sdf" type="chemical/x-mdl-sdfile">Pentano (gauche-gauche, sin)</a>
+- <a href="/alcanos/pentano-gauche-gauche-anti.sdf" download="pentano-gauche-gauche-anti.sdf" type="chemical/x-mdl-sdfile">Pentano (gauche-gauche, anti)</a>
+- <a href="/alcanos/hexano.sdf" download="hexano.sdf" type="chemical/x-mdl-sdfile">Hexano</a>
+- <a href="/alcanos/hexano_2-metil.sdf" download="hexano_2-metil.sdf" type="chemical/x-mdl-sdfile">Hexano, 2-metil-</a>
+- <a href="/alcanos/hexano_3R-3-metil.sdf" download="hexano_3R-3-metil.sdf" type="chemical/x-mdl-sdfile">Hexano, (3*R*)-3-metil-</a>
+- <a href="/alcanos/hexano_3S-3-metil.sdf" download="hexano_3S-3-metil.sdf" type="chemical/x-mdl-sdfile">Hexano, (3*S*)-3-metil-</a>
+- <a href="/alcanos/heptano.sdf" download="heptano.sdf" type="chemical/x-mdl-sdfile">Heptano</a>
+- <a href="/alcanos/octano.sdf" download="octano.sdf" type="chemical/x-mdl-sdfile">Octano</a>
+- <a href="/alcanos/nonano.sdf" download="nonano.sdf" type="chemical/x-mdl-sdfile">Nonano</a>
+- <a href="/alcanos/decano.sdf" download="decano.sdf" type="chemical/x-mdl-sdfile">Decano</a>
+- <a href="/alcanos/undecano.sdf" download="undecano.sdf" type="chemical/x-mdl-sdfile">Undecano</a>
+- <a href="/alcanos/dodecano.sdf" download="dodecano.sdf" type="chemical/x-mdl-sdfile">Dodecano</a>
+- <a href="/alcanos/tetradecano.sdf" download="tetradecano.sdf" type="chemical/x-mdl-sdfile">Tetradecano</a>
+- <a href="/alcanos/hexadecano.sdf" download="hexadecano.sdf" type="chemical/x-mdl-sdfile">Hexadecano</a>
+- <a href="/alcanos/octadecano.sdf" download="octadecano.sdf" type="chemical/x-mdl-sdfile">Octadecano</a>
+- <a href="/alcanos/eicosano.sdf" download="eicosano.sdf" type="chemical/x-mdl-sdfile">Eicosano</a>
+- <a href="/alcanos/docosano.sdf" download="docosano.sdf" type="chemical/x-mdl-sdfile">Docosano</a>
+- <a href="/alcanos/tetracosano.sdf" download="tetracosano.sdf" type="chemical/x-mdl-sdfile">Tetracosano</a>
+- <a href="/alcanos/hexacosano.sdf" download="hexacosano.sdf" type="chemical/x-mdl-sdfile">Hexacosano</a>
+- <a href="/alcanos/octacosano.sdf" download="octacosano.sdf" type="chemical/x-mdl-sdfile">Octacosano</a>
+- <a href="/alcanos/triacontano.sdf" download="triacontano.sdf" type="chemical/x-mdl-sdfile">Triacontano</a>
+- <a href="/alcanos/tetracontano.sdf" download="tetracontano.sdf" type="chemical/x-mdl-sdfile">Tetracontano</a>
+- <a href="/alcanos/pentacontano.sdf" download="pentacontano.sdf" type="chemical/x-mdl-sdfile">Pentacontano</a>
+- <a href="/alcanos/hectano.sdf" dowload="" type="chemical/x-mdl-sdfile">Hectano</a>
