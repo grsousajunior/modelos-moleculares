@@ -1,0 +1,56 @@
+modelos3d/
+├── alcanos/
+│   ├── metano.xyz
+│   │   etano/
+│   │   ├── etano-alternado.xyz
+│   │   └── etano-eclipsado.xyz
+│   ├── propano/
+│   │   ├── propano-alternado.xyz
+│   │   └── propano-eclipsado.xyz
+│   ├── butano/
+│   │   ├── butano-anticlinal.xyz
+│   │   ├── butano-antiperiplanar.xyz
+│   │   ├── butano-gauche.xyz
+│   │   └── butano-sinperiplanar.xyz
+│   ├── decano.xyz
+│   ├── dodecano.xyz
+│   ├── eicosano.xyz
+│   ├── heptano.xyz
+│   ├── hexadecano.xyz
+│   ├── hexano.xyz
+│   ├── nonano.xyz
+│   ├── octadecano.xyz
+│   ├── octano.xyz
+│   ├── pentano/
+│   │   ├── pentano-anti-anti.xyz
+│   │   ├── pentano-gauche-anti.xyz
+│   │   ├── pentano-gauche-gauche-antiperiplanar.xyz
+│   │   └── pentano-gauche-gauche-sinperiplanar.xyz
+│   ├── tetradecano.xyz
+│   └── undecano.xyz
+├── alcoois
+├── aldeidos
+├── alcanos
+├── alcenos
+├── alcinos
+├── amidas
+├── aminas
+├── aminoacidos
+├── aromaticos
+├── carbamidas
+├── carboidratos
+├── acidos-carboxilicos
+├── cicloalcanos
+├── cicloalcenos
+├── acucares-ciclicos
+├── eteres
+├── acidos-graxos
+├── fulerenos
+├── heteroaromaticos
+├── cetonas
+├── nitrilas
+├── nuclotideos
+├── nucleobases
+├── esteroides
+├── sufloxidos
+└── tiois
